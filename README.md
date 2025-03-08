@@ -25,7 +25,7 @@
     <li>🌱 I’m currently learning **Python Full Stack Development (Django, React, PostgreSQL)**</li>
     <li>🚀 Interested in **AI, Machine Learning, and Data Science**</li>
     <li>👯 I’m looking to collaborate on **full-stack projects and AI-based applications**</li>
-    <li>📫 How to reach me: **Thamaraiselvamc@gmail.com**</li>
+    <li>📫 How to reach me: **thamaraiselvamc@gmail.com**</li>
   </ul>
 
   <h3 align="left">Connect with me:</h3>
