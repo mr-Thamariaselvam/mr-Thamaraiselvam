@@ -4,12 +4,11 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
- 
 </head>
 
 <body>
 
-  <h4>Last profile update <strong>Feb 01 2024</strong></h4>
+  <h4>Last profile update <strong>March 2025</strong></h4>
 
   <div align="center">
     <h1 align="center">Greetings! 👋, I'm Thamaraiselvam</h1>
@@ -17,16 +16,16 @@
   </div>
 
   <p align="justify">
-    [Introduction and Background - Share your story, interests, and passion for technology.]
+    I am an aspiring **Python Full Stack Developer** currently learning **React, Django, and AI/ML**.  
+    Passionate about **backend development, web applications, and data science**, I am eager to explore and build innovative solutions.  
+    Currently, I am working on improving my **Django framework** skills and building full-stack applications.  
   </p>
 
   <ul>
-    <li>🌱 I’m currently learning MERN Stack</li>
-    <li>👯 I’m looking to collaborate on ....</li>
-    <li>💬 Ask me about....</li>
-    <li>📫 How to reach me: Thamaraiselvamc@gmail.com</li>
-    <li>😄 Pronouns: He/Her</li>
-    <li>⚡ Fun fact: ....</li>
+    <li>🌱 I’m currently learning **Python Full Stack Development (Django, React, PostgreSQL)**</li>
+    <li>🚀 Interested in **AI, Machine Learning, and Data Science**</li>
+    <li>👯 I’m looking to collaborate on **full-stack projects and AI-based applications**</li>
+    <li>📫 How to reach me: **Thamaraiselvamc@gmail.com**</li>
   </ul>
 
   <h3 align="left">Connect with me:</h3>
@@ -46,26 +45,43 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
     </a>
-    <!-- Frameworks -->
-    <a href="https://getbootstrap.com" target="_blank">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" />
-    </a>
-    <!-- React and React Native icons -->
     <a href="https://reactjs.org/" target="_blank">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
     </a>
-    <a href="https://reactnative.dev/" target="_blank">
-      <img src="https://reactnative.dev/img/header_logo.svg" alt="react-native" width="40" height="40" />
+    <!-- Backend -->
+    <a href="https://www.python.org/" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
+    </a>
+    <a href="https://www.djangoproject.com/" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40" />
+    </a>
+    <a href="https://flask.palletsprojects.com/" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40" />
+    </a>
+    <!-- Databases -->
+    <a href="https://www.postgresql.org/" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40" />
+    </a>
+    <a href="https://www.mongodb.com/" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40" />
+    </a>
+    <!-- AI/ML -->
+    <a href="https://numpy.org/" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40" />
+    </a>
+    <a href="https://pandas.pydata.org/" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40" />
     </a>
   </p>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=mr-Thamariaselvam&show_icons=true&theme=radical" alt="GitHub Stats">
+  <h3 align="left">GitHub Stats:</h3>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=mr-Thamariaselvam&show_icons=true&theme=radical" alt="GitHub Stats">
+  </p>
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-Thamariaselvam&layout=compact&theme=radical)]
-
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mr-Thamariaselvam&show_icons=true&theme=radical" alt="GitHub Streak" /></p>
-
-  <!-- Feel free to customize and add more sections based on your preferences. -->
+  <p>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mr-Thamariaselvam&show_icons=true&theme=radical" alt="GitHub Streak">
+  </p>
 
 </body>
 
